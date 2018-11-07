@@ -1,0 +1,40 @@
+body {
+	margin: 0 20px;
+}
+
+div.large-profile-pic img {
+	max-width: 200px;
+	border: 2px solid grey;
+	border-radius: 100px;
+}
+
+div.main {
+	margin: 20px;
+	width: 800px;
+	display: inline-block;
+}
+
+
+div.profile-pic img{
+	max-width: 70px;
+	margin: 10px;
+	float:left;
+	border: 2px solid grey;
+	border-radius: 50px;
+}
+
+div.user-details{
+margin: 10px 40px;
+}
+
+div.icons {
+margin: 10px 90px;
+}
+
+div.icons span {
+margin-right: 20px;
+}
+
+img.verf-icon {
+ max-width: 20px;
+}
